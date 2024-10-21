@@ -1,0 +1,2 @@
+# newsopt
+news app
